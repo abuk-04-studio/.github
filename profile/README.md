@@ -1,4 +1,5 @@
 ## Hi there 👋
+#We are a small stydio (2 people)
 
 <!--
 
