@@ -1,5 +1,5 @@
 ## Hi there 👋
-#We are a small stydio (2 people)
+#We are a small studio (size 2 people)
 
 <!--
 
